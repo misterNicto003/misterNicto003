@@ -2,6 +2,8 @@
 
 ### my name is Abu-Bakr, and i m Frontend Developer
 
+<br/>
+
 ### 💻 Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux)](https://skillicons.dev)
