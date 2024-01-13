@@ -4,7 +4,7 @@
 
 ### 💻 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,jsreact,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux)](https://skillicons.dev)
 
 ### 🔨 Tools:
 
